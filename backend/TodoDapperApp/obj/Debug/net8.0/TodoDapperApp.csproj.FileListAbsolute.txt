@@ -208,3 +208,4 @@
 /Users/ryanwade/ASP-NET-Practice-With-Dapper/backend/TodoDapperApp/obj/Debug/net8.0/TodoDapperApp.pdb
 /Users/ryanwade/ASP-NET-Practice-With-Dapper/backend/TodoDapperApp/obj/Debug/net8.0/TodoDapperApp.genruntimeconfig.cache
 /Users/ryanwade/ASP-NET-Practice-With-Dapper/backend/TodoDapperApp/obj/Debug/net8.0/ref/TodoDapperApp.dll
+/Users/ryanwade/ASP-NET-Practice-With-Dapper/backend/TodoDapperApp/obj/Debug/net8.0/TodoDapperApp.sourcelink.json
